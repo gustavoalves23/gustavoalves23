@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<br>
 <h2>About me:</h2>
 <p>Hello, i'm Gustavo Alves, a fullstack web development student at Trybe, where i am learning web development, development, Front-end, Back-end, computer science, agile methodologies and soft skills.
 </p>
