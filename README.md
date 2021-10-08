@@ -1,4 +1,11 @@
 ### Hi there 👋
+<br>
+<a href="https://www.linkedin.com/in/gumiyazaki/">
+  <img width="30px" alt="My linkedin Profile" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+</a>
+<a href="https://www.instagram.com/gustavoalves233/">
+  <img width="30px" alt="My instagram Profile" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg">
+</a>
 
 <!--
 **gustavoalves23/gustavoalves23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
