@@ -10,7 +10,13 @@
   <img alt="My instagram Profile" src="https://img.shields.io/badge/@gustavoalves233-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="mailto:gustavoalves388@gmail.com">
-  <img alt="My instagram Profile" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img alt="My Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://gustavoalves23.github.io/">
+  <img alt="My Portifolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+</a>
+<a href="https://docs.google.com/document/d/1EsVbDJQo2HzkZ-wzXy2ClNHmfLdRCcL-llfd3CBI1iE/edit?usp=sharing">
+  <img alt="My curriculum" src="https://img.shields.io/badge/curriculum-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 </a>
 <br>
 <br>
@@ -31,6 +37,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 <br>
 <br>
