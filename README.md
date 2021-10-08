@@ -6,7 +6,10 @@
   <img alt="My linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/gustavoalves233/">
-  <img width="30px" alt="My instagram Profile" src="hhttps://img.shields.io/badge/@gustavoalves233-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img alt="My instagram Profile" src="https://img.shields.io/badge/@gustavoalves233-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="mailto:gustavoalves388@gmail.com">
+  <img alt="My instagram Profile" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <br>
 <br>
