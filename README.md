@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+<br>
 <h2>About me:</h2>
 <p>Hello, i'm Gustavo Alves, a fullstack web development student at Trybe, where i am learning web development, development, Front-end, Back-end, computer science, agile methodologies and soft skills.
 </p>
@@ -13,6 +15,8 @@
 </a>
 <br>
 <br>
+<br>
+
 
 <h2>Things i code with</h2>
 
@@ -29,6 +33,9 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
+<br>
+<br>
+
 <h2>My main tools</h2>
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -37,6 +44,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+<br>
 
 <h2>My Projects</h2>
 <table align="center">
@@ -52,6 +62,8 @@
   </tr>
 </table>
 <br>
+<br>
+
 <h2>GitHub Statistics</h2>
 
 
