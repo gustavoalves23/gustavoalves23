@@ -15,8 +15,8 @@
 <a href="https://gustavoalves23.github.io/">
   <img alt="My Portifolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
-<a href="https://docs.google.com/document/d/1EsVbDJQo2HzkZ-wzXy2ClNHmfLdRCcL-llfd3CBI1iE/edit?usp=sharing">
-  <img alt="My curriculum" src="https://img.shields.io/badge/curriculum-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<a href="https://drive.google.com/file/d/1z-ud_QgHWqkob3UTboonBFoY-ExQi-3o/view?usp=sharing">
+  <img alt="My Resume" src="https://img.shields.io/badge/curriculum-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 </a>
 <br>
 <br>
