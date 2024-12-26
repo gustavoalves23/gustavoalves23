@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-<h2>About me:</h2>
-<p>Hello, i'm Gustavo Alves, a fullstack web development student at Trybe, where i am learning web development, development, Front-end, Back-end, computer science, agile methodologies and soft skills.
-</p>
+<h2>My socials:</h2>
 <a href="https://www.linkedin.com/in/gumiyazaki/">
   <img alt="My linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/gustavoalves233/">
-  <img alt="My instagram Profile" src="https://img.shields.io/badge/@gustavoalves233-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 <a href="mailto:gustavoalves388@gmail.com">
   <img alt="My Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://gustavomiyazaki.vercel.app/">
-  <img alt="My Portifolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <a href="https://drive.google.com/file/d/1z-ud_QgHWqkob3UTboonBFoY-ExQi-3o/view?usp=sharing">
   <img alt="My Resume" src="https://img.shields.io/badge/curriculum-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -23,7 +15,7 @@
 <br>
 
 
-<h2>Things i code with</h2>
+<h2>Things i code with:</h2>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -45,19 +37,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
 <br>
 <br>
 
-<h2>My main tools</h2>
+<h2>My main tools:</h2>
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -76,24 +64,6 @@
 <br>
 <br>
 
-<h2>My Projects</h2>
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-  <td>StopWatch</td>
-  <td>A simple React Stopwatch, with a lot of CSS and animations</td>
-  <td><a href="https://gustavoalves23.github.io/stopwatch/">Here</a></td>
-  </tr>
-</table>
-<br>
-<br>
-
 <h2>GitHub Statistics</h2>
-
-
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gustavoalves23&show_icons=true&theme=gotham" alt="gustavoalves23_stats" />
